@@ -10,7 +10,7 @@
   --stroke-color: rgba(225, 225, 225, 0.5);
   --surface-color: rgba (225, 225, 225, 0.05);
   --surface-color-hover: (0, 0, 0, 0.02);
-  --highlight-color:gray;
+  --highlight-color: gray;
   --switch-bg-url: url(./assets/moon-stars.svg);
 }
 
@@ -44,7 +44,7 @@ body * {
 
 #profile {
   text-align: center;
-  padding: 24px;
+  padding: 24px;j
 }
 
 #profile img {
